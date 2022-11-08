@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @oscarogar
 - 👀 I’m interested in Data Science and Machine Learning
-- 🌱 I’m currently learning advanced Python
-- 💞️ I’m looking to collaborate on Data Science projects
+- 🌱 I’m constantly learning to ensure that I am better Today than I was Yesterday!!
+- 💞️ I’m looking to collaborate on Data Science , web and other interesting projects
 - 📫 You can reach me on oscar.ogar@yahoo.com
 
 <!---
